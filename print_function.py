@@ -15,3 +15,6 @@ print('\'I\'', end=' ')
 print('caught a', end=' ')
 print('\n\tfish', end=' ')
 print('\'//alive\\\\\'')
+
+print('One,\'two\',\"three\",four,\\five\\\n\tonce,\'I\' caught a\
+ fish\n\t\t\'//alive\\\\\'')
