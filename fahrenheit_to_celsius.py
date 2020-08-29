@@ -2,11 +2,12 @@
 
 '''
 fahrenheit_to_celsius.py
+
+./fahrenheit_to_celsisus.py
 '''
 
 
-# Ask the user for the radius of a circle and then print the area
-
+# Ask the user for the temperature in Fahrenheit and print this in Celsisu
 temperature_fahrenheit = \
         float(input('What is the temperature in degrees F? > '))
 # print(temperature_fahrenheit)
