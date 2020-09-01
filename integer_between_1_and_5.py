@@ -1,9 +1,9 @@
 #! /usr/bin/env python3
 
 '''
-integer_betwee_1_and_5.py
+integer_between_1_and_5.py
 
-./integer_betwee_1_and_5.py
+./integer_between_1_and_5.py
 '''
 
 
